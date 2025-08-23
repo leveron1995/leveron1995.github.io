@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.side {
+  width: 100px;
+  flex-shrink: 1;
+}
+
+.center {
+  width: 100px;
+  flex-shrink: 2;
+}
